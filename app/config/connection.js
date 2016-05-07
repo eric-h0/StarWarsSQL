@@ -5,10 +5,10 @@
 var mysql = require('mysql');
 var connection = mysql.createConnection({
     port: 3306,
-    host: 'localhost',
-    user: 'root',
-    password: "password",
-    database: "star_wars"
+    host: 'l9dwvv6j64hlhpul.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+    user: 'ffv5smn8usgj1j5r',
+    password: "u79oz9rbgsiumfxe",
+    database: "aljea3ucxqjcou0i"
 });
 
 
